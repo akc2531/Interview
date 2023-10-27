@@ -1,0 +1,24 @@
+What is a signal in the context of signal systems?
+
+A signal is a time-varying physical quantity that carries information. It can be in various forms, such as electrical voltage, acoustic waves, or light, and it is used to transmit data and convey information.
+Differentiate between analog and digital signals. Give examples of each.
+
+An analog signal is continuous and can take any value within a range (e.g., a smooth sine wave). A digital signal is discrete, represented as binary values (0s and 1s). Examples of analog signals include audio waves, temperature readings, and voltage levels. Examples of digital signals include binary data in computers and digital communication systems.
+How are signals transmitted in a communication system? What are the methods of transmission?
+
+Signals are transmitted through wired or wireless methods. Wired transmission includes electrical cables and fiber optics. Wireless transmission involves radio waves, microwaves, and infrared signals, using antennas and transmitters.
+What is the significance of amplitude, frequency, and phase in signal characteristics?
+
+Amplitude determines the signal's strength, frequency represents the number of cycles per second, and phase indicates the relative timing of the signal. These characteristics are essential for signal analysis, encoding, and transmission.
+Explain the concept of signal-to-noise ratio (SNR) and its importance in signal quality.
+
+SNR is the ratio of signal power to noise power. It measures the quality of a signal. A higher SNR indicates a cleaner and more reliable signal, while a lower SNR implies a greater presence of noise, potentially degrading signal quality.
+What is modulation, and why is it used in communication systems?
+
+Modulation is the process of varying one or more properties of a carrier signal with an information signal to transmit data efficiently. It is used to adapt the signal to the characteristics of the transmission medium, enhance signal quality, and allow multiple signals to coexist in the same channel.
+How does demodulation work, and why is it important in signal reception?
+
+Demodulation is the process of extracting the original information signal from a modulated carrier signal. It is crucial in signal reception as it reverses the modulation process, enabling the receiver to recover the original data for further processing or analysis.
+Describe the process of analog-to-digital conversion in signal processing.
+
+Analog-to-digital conversion involves sampling an analog signal at discrete time intervals and quantizing its amplitude into digital values. The result is a digital representation of the analog signal, which can be processed by digital systems.
