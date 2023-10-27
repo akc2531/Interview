@@ -21,4 +21,14 @@ How does demodulation work, and why is it important in signal reception?
 Demodulation is the process of extracting the original information signal from a modulated carrier signal. It is crucial in signal reception as it reverses the modulation process, enabling the receiver to recover the original data for further processing or analysis.
 Describe the process of analog-to-digital conversion in signal processing.
 
+
+Describe the mathematical representation of a continuous-time signal and a discrete-time signal.
+
+Continuous-time signals are represented as functions of time (e.g., x(t)), while discrete-time signals are sequences of values (e.g., x[n]).
+What is the Laplace transform, and how is it used in analyzing signals and systems?
+
+The Laplace transform is a mathematical tool used to analyze signals and systems in the frequency domain. It simplifies solving differential equations and is crucial in control systems and circuit analysis.
+Explain the concept of convolution in signal processing and its applications.
+
+Convolution is an operation used to combine two signals to produce a third signal. It is employed in various applications, such as filtering, image processing, and system analysis.
 Analog-to-digital conversion involves sampling an analog signal at discrete time intervals and quantizing its amplitude into digital values. The result is a digital representation of the analog signal, which can be processed by digital systems.
