@@ -90,3 +90,7 @@ In the common-emitter configuration, the input is applied to the base-emitter ju
 Describe the field-effect transistor (FET). How does it differ from a BJT in terms of operation?
 
 A field-effect transistor (FET) is a three-terminal device that uses an electric field to control the flow of charge carriers. It differs from a BJT in that it is voltage-controlled (as opposed to current-controlled) and has high input impedance. FETs are primarily used for amplification and switching in electronic circuits.
+
+importance of biasing in diode and transistor circuits?
+
+Biasing is the process of applying a DC voltage to a diode or transistor to ensure it operates in the desired region (e.g., active, saturation, or cutoff
