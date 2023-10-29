@@ -3,3 +3,14 @@ Question: What is the difference between public and private modifiers?
 Answer: When we declare a private method, it is only accessible within a Class. But when we declare a public method, it is not only accessible within the Class but also throughout the projects.
 
 Currently, we cannot discuss the differences between public and private modifiers in deep detail. We'll discuss them in the next module. 
+
+
+Few commonly encountered Exceptions in Java:
+
+Casting: ClassCastException
+Arrays: ArrayIndexOutOfBoundsException, NullPointerException
+IO: IOException, FileNotFoundException, EOFException
+Threads: InterruptedException, SecurityException, IllegalThreadStateException
+Potentially common to all situations: NullPointerException, IllegalArgumentException
+
+If you are curious to know more about any of the above-mentioned Exceptions, then please Google them for your extra knowledge.
